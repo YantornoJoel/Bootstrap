@@ -1,0 +1,16 @@
+#comentario{
+    background: #eeeded;
+    padding: 50px 0 30px 0;
+    text-align: center;
+    margin-top: 70px;
+}
+header {
+    margin-top: 75px;
+}
+#nav{
+    background: #cdf1f3;
+}
+
+footer{
+    background: url(../images/placaVideo.jpg);
+}
